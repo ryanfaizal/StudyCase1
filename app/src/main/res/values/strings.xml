@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Study Case</string>
+
+    <string name="abnormal_text">ABNORMAL</string>
+    <string name="eatbus_text">EATBUS</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="activity2_name">Study Case</string>
+    <string name="menu">Menu</string>
+    <string name="dengan_milea">dengan Milea</string>
+    <string name="porsi">Porsi</string>
+    <string name="harga">Harga</string>
+</resources>
